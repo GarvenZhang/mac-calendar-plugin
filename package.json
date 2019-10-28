@@ -1,0 +1,19 @@
+{
+  "name": "mac-calendar-plugin",
+  "version": "1.0.0",
+  "description": "打造只能推荐📆",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarvenZhang/mac-calendar-plugin.git"
+  },
+  "author": "garven",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GarvenZhang/mac-calendar-plugin/issues"
+  },
+  "homepage": "https://github.com/GarvenZhang/mac-calendar-plugin#readme"
+}
